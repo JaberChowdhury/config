@@ -1,0 +1,110 @@
+# Backup folders
+*-backup-*
+*back_up*
+# Ignore ALL .git directories (including nested ones)
+**/.git/
+# General system files
+.DS_Store
+*.swp
+*~
+*.bak
+*.backup
+*.tmp
+*.temp
+*.log
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.code-workspace
+
+# Code editor/application caches
+Code/Cache/
+Code/Cached*/
+Code/Crashpad/
+Code/DIPS
+Code/Dawn*/
+Code/GPUCache/
+Code/Local Storage/
+Code/Session Storage/
+Code/Network Persistent State
+Code/Preferences
+Code/TransportSecurity
+Code/Trust Tokens*
+Code/languagepacks.json
+Code/machineid
+Code/User/globalStorage/
+Code/User/workspaceStorage/
+
+# Binary and compiled files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.bin
+*.class
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+node_modules/
+vendor/
+bower_components/
+jspm_packages/
+.pnpm-store/
+
+# Build directories
+build/
+dist/
+out/
+bin/
+obj/
+
+# Configuration files that may contain sensitive data
+*.env
+*.secret
+*.key
+*.cert
+*.pem
+*.crt
+
+# User-specific files
+user-dirs.dirs
+user-dirs.locale
+mimeapps.list
+gnome-initial-setup-done
+gnome-xdg-terminals.list
+xdg-terminals.list
+ubuntu-xdg-terminals.list
+dconf/user
+ibus/bus/
+pulse/cookie
+evolution/sources/
+
+# Application-specific files
+.config/btop/
+.config/cava/
+.config/fastfetch/
+.config/hypr/
+.config/kitty/kitty-themes/
+.config/rofi/
+.config/swappy/
+.config/swaync/
+.config/wlogout/
+.config/wallust/
+.config/zed/
+
+# Cache and temporary files
+.config/nvim/
+.cache/
+*.cache
+*.pyc
+*.pyo
+__pycache__/
+
+# System files
+.gsd-keyboard.settings-ported
+background
