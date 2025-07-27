@@ -3,3 +3,6 @@ if status is-interactive
  starship init fish | source   
 
 end
+
+# Created by `pipx` on 2025-07-27 08:27:13
+set PATH $PATH /home/jaber/.local/bin
