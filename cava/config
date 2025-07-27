@@ -243,14 +243,14 @@
 # for wallust
 gradient = 1
 gradient_count = 8
-gradient_color_1 = '#3E3E40'
-gradient_color_2 = '#B7586A'
-gradient_color_3 = '#5F7AB6'
-gradient_color_4 = '#BD754A'
-gradient_color_5 = '#C6DEAC'
-gradient_color_6 = '#40BDD0'
-gradient_color_7 = '#FC9C63'
-gradient_color_8 = '#C6DEAC'
+gradient_color_1 = '#48494C'
+gradient_color_2 = '#294434'
+gradient_color_3 = '#3F694A'
+gradient_color_4 = '#4C8C5F'
+gradient_color_5 = '#AAD5B7'
+gradient_color_6 = '#65BB7F'
+gradient_color_7 = '#65BB7F'
+gradient_color_8 = '#AAD5B7'
 
 
 [smoothing]
